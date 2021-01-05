@@ -21,6 +21,6 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "superagent": "^5.2.2",
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   }
 }
